@@ -1,0 +1,30 @@
+p {
+    padding: 0 20px 40px 20px;
+}
+.section-banner .background {
+    position: fixed !important;
+    opacity: 0.2;
+}
+.bug {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin: 2rem auto;
+}
+.bug img {
+    max-width: 300px;
+    max-height: 450px;
+    width: 100%;
+    height: 100%;
+}
+.bug .section-text {
+    width: 100%;
+}
+.bug .section-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+    margin: 20px auto;
+}
